@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [GitHub]()
--   Live Site URL: [Vercel]()
+-   Solution URL: [GitHub](https://github.com/mikailafsin/frontend-mentor-news-homepage-solution)
+-   Live Site URL: [Vercel](https://frontend-mentor-news-homepage-solution-ten.vercel.app/)
 
 ## My process
 
